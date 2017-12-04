@@ -1,0 +1,7 @@
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\obj\Debug\task-debugging.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\obj\Debug\task-debugging.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\bin\Debug\task-debugging.exe.config
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\bin\Debug\task-debugging.exe
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\bin\Debug\task-debugging.pdb
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\obj\Debug\task-debugging.exe
+C:\Users\Alizada\source\repos\task-debugging\task-debugging\obj\Debug\task-debugging.pdb
